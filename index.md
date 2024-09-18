@@ -12,3 +12,10 @@ Nice lambo:
 print('Hello World!') 
 ```
 
+# Step 4: Make a task list
+Steps:
+- [x] Step 1: Add Headers
+- [x] Step 2: Add an image
+- [x] Step 3: Add a code example
+- [x] Step 4: Make a task list
+- [ ] Step 5: Merge pull request
